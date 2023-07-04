@@ -1,7 +1,7 @@
-<!--
+
 ### Hi there 👋
 
-
+<!--
 **HoneySharmaGit/HoneySharmaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 <h1 align="center">Hi👋, I'm Honey</h1>
     <h3 align="center">"A Passionate Backend Developer with a love for solving problems and creating innovative solutions."</h3>
-
-    - 📫 How to reach me *hhoneysharmaa@gmail.com*
-    <br> - ☎️ Contact *+91 7060644113*
+ - 📫 How to reach me *hhoneysharmaa@gmail.com*
+    <br/> - ☎️ Contact *+91 7060644113*
 
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
@@ -44,3 +43,5 @@ Here are some ideas to get you started:
     <p>
         &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HoneySharmaGit&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=dark" alt="HoneySharmaGit" />
     </p>
+
+   
