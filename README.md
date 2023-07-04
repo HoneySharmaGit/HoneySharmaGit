@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi👋, I'm Honey</h1>
     <h3 align="center">"A Passionate Backend Developer with a love for solving problems and creating innovative solutions."</h3>
- - 📫 How to reach me *hhoneysharmaa@gmail.com*
-    <br/> - ☎️ Contact *+91 7060644113*
+ - 📫 How to reach me <a href="#">hhoneysharmaa@gmail.com</a>
+    <br/> - ☎️ Contact <a href="#">+91 7060644113</a>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
