@@ -3,6 +3,7 @@
     <h3 align="center">"A Passionate Backend Developer with a love for solving problems and creating innovative solutions."</h3>
  - 📫 How to reach me <a href="#">hhoneysharmaa@gmail.com</a>
     <br/> - ☎️ Contact <a href="#">+91 7060644113</a>
+    <br/> - 🌐 Personal Portfolio <a href="https://honeysharmagit.github.io/">HoneySharma</a>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
