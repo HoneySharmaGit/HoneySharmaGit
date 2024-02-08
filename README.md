@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I'm Honey</h1>
     <h3 align="center">"A Passionate Backend Developer with a love for solving problems and creating innovative solutions."</h3>
  - 📫 Here's my email to reach me <a href="#" target="_blank" style="text-decoration: none">hhoneysharmaa@gmail.com</a>
-    <br/> - ☎️ Contact <a href="#" target="_blank" style="text-decoration: none">+91 7060644113</a>
+    <br/> - ☎️ Contact <a href="tel:+917060644113" target="_blank" style="text-decoration: none">+91 7060644113</a>
     <br/> - 🌐 Personal Portfolio <a href="https://honeysharmagit.github.io/" target="_blank" style="text-decoration: none">HoneySharma Portfolio</a>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
