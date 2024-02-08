@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi👋, I'm Honey</h1>
     <h3 align="center">"A Passionate Backend Developer with a love for solving problems and creating innovative solutions."</h3>
- - 📫 Here's my email to reach me <a href="#", style={{textDecoration:"none"}}, target="_blank">hhoneysharmaa@gmail.com</a>
-    <br/> - ☎️ Contact <a href="#", style={{textDecoration:"none"}}, target="_blank">+91 7060644113</a>
-    <br/> - 🌐 Personal Portfolio <a href="https://honeysharmagit.github.io/", style={{textDecoration:"none"}}, target="_blank">HoneySharma</a>
+ - 📫 Here's my email to reach me <a href="#", target="_blank", style={{text-decoration:"none"}}>hhoneysharmaa@gmail.com</a>
+    <br/> - ☎️ Contact <a href="#", target="_blank", style={{text-decoration:"none"}}>+91 7060644113</a>
+    <br/> - 🌐 Personal Portfolio <a href="https://honeysharmagit.github.io/", target="_blank", style={{text-decoration:"none"}}>HoneySharma Portfolio</a>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
